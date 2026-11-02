@@ -13,4 +13,4 @@ I'm doing an MSc double degree at NHH (Bergen) and the University of Mannheim, a
 - **[A/B testing and multi-armed bandits](https://github.com/schuelting15/ab-testing-bandits)**: cleans and analyses about 60,000 app sessions from a three-arm recommendation experiment, then simulates ε-greedy, UCB1 and Thompson Sampling. Thompson Sampling cuts regret against a fixed split by about 97% (R, synthetic data).
 <!-- Add once pushed: deal-sourcing automation (n8n + Claude API) -->
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+[LinkedIn](https://www.linkedin.com/in/dennis-sch%C3%BClting/)
